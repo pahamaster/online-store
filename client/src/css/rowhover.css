@@ -1,0 +1,17 @@
+.rowhover {
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  cursor: pointer;
+}
+
+.rowhover:hover {
+  background: lightblue;
+}
+
+.rowpink {
+  background: pink;
+}
+
+.rowpink:hover {
+  cursor: pointer;
+}

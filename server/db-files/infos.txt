@@ -1,0 +1,254 @@
+[
+  {
+    "id": 48,
+    "title": "Максимальное разрешение",
+    "description": "4096x2160",
+    "deviceId": 25
+  },
+  {
+    "id": 49,
+    "title": "DirectX",
+    "description": "DirectX",
+    "deviceId": 24
+  },
+  {
+    "id": 51,
+    "title": "Экран",
+    "description": "15,6\" TN",
+    "deviceId": 32
+  },
+  {
+    "id": 50,
+    "title": "Аккумулятор",
+    "description": "5020 мАч",
+    "deviceId": 32
+  },
+  {
+    "id": 52,
+    "title": "Процессор",
+    "description": " i3 1005G1",
+    "deviceId": 32
+  },
+  {
+    "id": 53,
+    "title": "Оперативная память",
+    "description": "8 Гб",
+    "deviceId": 32
+  },
+  {
+    "id": 54,
+    "title": "Жесткий диск",
+    "description": "128 Гб SSD",
+    "deviceId": 32
+  },
+  {
+    "id": 55,
+    "title": "Видеокарта",
+    "description": "NV GTX1650Ti 4Gb",
+    "deviceId": 32
+  },
+  {
+    "id": 56,
+    "title": "Оперативная память",
+    "description": "3 Гб",
+    "deviceId": 44
+  },
+  {
+    "id": 58,
+    "title": "Батарея",
+    "description": "5000 mAh",
+    "deviceId": 33
+  },
+  {
+    "id": 57,
+    "title": "Встроенная память",
+    "description": "32 Гб",
+    "deviceId": 44
+  },
+  {
+    "id": 65,
+    "title": "Видеокарта",
+    "description": "NV GTX1650Ti 4Gb",
+    "deviceId": 33
+  },
+  {
+    "id": 63,
+    "title": "Встроенная память",
+    "description": "512 Гб",
+    "deviceId": 45
+  },
+  {
+    "id": 69,
+    "title": "Встроенная память",
+    "description": "512 Гб",
+    "deviceId": 34
+  },
+  {
+    "id": 1,
+    "title": "Операционная система",
+    "description": "Android",
+    "deviceId": 3
+  },
+  {
+    "id": 9,
+    "title": "Графический процессор",
+    "description": "GT730 700 МГц",
+    "deviceId": 7
+  },
+  {
+    "id": 13,
+    "title": "Процессор",
+    "description": "Qualcomm Snapdragon 460 1,8GHz, 8 Core",
+    "deviceId": 5
+  },
+  {
+    "id": 14,
+    "title": "Камера",
+    "description": "48Mp / 8Mp",
+    "deviceId": 3
+  },
+  {
+    "id": 15,
+    "title": "Аккумулятор",
+    "description": "5000 мАч",
+    "deviceId": 6
+  },
+  {
+    "id": 18,
+    "title": "Объём",
+    "description": "240 Гб",
+    "deviceId": 10
+  },
+  {
+    "id": 11,
+    "title": "Техпроцесс",
+    "description": "40 нм",
+    "deviceId": 7
+  },
+  {
+    "id": 12,
+    "title": "Экран",
+    "description": "6.5\" 1600x720 IPS 20:9",
+    "deviceId": 3
+  },
+  {
+    "id": 21,
+    "title": "Интерфейс",
+    "description": "SATA-3",
+    "deviceId": 10
+  },
+  {
+    "id": 8,
+    "title": "Видеопамять",
+    "description": "4096 МБ DDR3 1800Mhz 128Bit",
+    "deviceId": 25
+  },
+  {
+    "id": 2,
+    "title": "Дюйм",
+    "description": "52\"",
+    "deviceId": 41
+  },
+  {
+    "id": 20,
+    "title": "Процессор",
+    "description": "Snapdragon 732 Octa Core 2 ГГц",
+    "deviceId": 5
+  },
+  {
+    "id": 19,
+    "title": "Экран",
+    "description": "6,67\" 2400x1080P FHD",
+    "deviceId": 6
+  },
+  {
+    "id": 22,
+    "title": "Объём",
+    "description": "500 Гб",
+    "deviceId": 9
+  },
+  {
+    "id": 23,
+    "title": "Кэш",
+    "description": "32 Мб",
+    "deviceId": 9
+  },
+  {
+    "id": 24,
+    "title": "Интерфейс",
+    "description": "SATA-3",
+    "deviceId": 9
+  },
+  {
+    "id": 25,
+    "title": "Форм-фактор",
+    "description": "ATX",
+    "deviceId": 19
+  },
+  {
+    "id": 26,
+    "title": "Сокет",
+    "description": "LGA115",
+    "deviceId": 19
+  },
+  {
+    "id": 27,
+    "title": "Чипсет",
+    "description": "Intel B75",
+    "deviceId": 19
+  },
+  {
+    "id": 28,
+    "title": "Камера",
+    "description": "108MP + 8MP + 5MP + 2MP задняя, фронтальная 16MP",
+    "deviceId": 44
+  },
+  {
+    "id": 29,
+    "title": "Слоты памяти",
+    "description": "2 DDR3",
+    "deviceId": 19
+  },
+  {
+    "id": 36,
+    "title": "Видеопамять",
+    "description": "1Gb DDR5 128Bit 5000MHz",
+    "deviceId": 7
+  },
+  {
+    "id": 30,
+    "title": "Видеопамять",
+    "description": "2Gb DDR4 64bit ",
+    "deviceId": 24
+  },
+  {
+    "id": 37,
+    "title": "Встроенная память",
+    "description": "512 Гб",
+    "deviceId": 5
+  },
+  {
+    "id": 40,
+    "title": "Встроенная память",
+    "description": "512 Гб",
+    "deviceId": 6
+  },
+  {
+    "id": 46,
+    "title": "Видеовыход",
+    "description": "HDMI",
+    "deviceId": 25
+  },
+  {
+    "id": 47,
+    "title": "Интерфейс",
+    "description": "PCI-Express 3,0",
+    "deviceId": 25
+  },
+  {
+    "id": 10,
+    "title": "Интерфейс",
+    "description": "PCI-E 16x 2.0",
+    "deviceId": 24
+  }
+]

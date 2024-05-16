@@ -1,0 +1,346 @@
+[
+  {
+    "id": 2,
+    "name": "VRS 10",
+    "price": 50000,
+    "typeId": 59,
+    "brandId": 78,
+    "img": "888425d2-e37e-4f8a-b49d-abbc41f57065.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Redmi 9",
+    "price": 9000,
+    "typeId": 58,
+    "brandId": 84,
+    "img": "1537b06c-cebb-4437-a391-915e8870274f.jpg"
+  },
+  {
+    "id": 4,
+    "name": "S145-15IIL",
+    "price": 32000,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "8d2f8dd3-d7d6-4ae0-a087-acd58fa6f10b.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Redmi Note 10 Pro",
+    "price": 24000,
+    "typeId": 58,
+    "brandId": 84,
+    "img": "5da24e3c-28f9-41cb-93b5-f11b71c2c09f.jpg"
+  },
+  {
+    "id": 6,
+    "name": "K13 Note",
+    "price": 24000,
+    "typeId": 58,
+    "brandId": 77,
+    "img": "4cd2aba3-e6d5-43af-beeb-8619682ce633.jpg"
+  },
+  {
+    "id": 7,
+    "name": "GeForce GT 730",
+    "price": 8000,
+    "typeId": 51,
+    "brandId": 79,
+    "img": "c9a33671-a14c-4829-9221-98363d11e935.jpg"
+  },
+  {
+    "id": 8,
+    "name": "450 PNR",
+    "price": 2330,
+    "typeId": 49,
+    "brandId": 71,
+    "img": "ac142f7a-4bad-4f20-992f-99a753ff1d1e.jpg"
+  },
+  {
+    "id": 9,
+    "name": "WD5000AZLX",
+    "price": 2800,
+    "typeId": 52,
+    "brandId": 83,
+    "img": "f4a8f72d-0e21-4292-af92-7f5bd194a868.jpg"
+  },
+  {
+    "id": 10,
+    "name": "SU635",
+    "price": 2650,
+    "typeId": 53,
+    "brandId": 65,
+    "img": "2a031408-8229-4931-ac5f-fb9704e830da.jpg"
+  },
+  {
+    "id": 11,
+    "name": "3",
+    "price": 2,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "45b79585-d29b-4528-bc25-9b3ac1d363d1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "7",
+    "price": 0,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "1ae766c7-80f7-4219-85af-130895cca77e.jpg"
+  },
+  {
+    "id": 13,
+    "name": "ghghg",
+    "price": 0,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "3797d488-87f3-47da-80fb-d89123ebb744.jpg"
+  },
+  {
+    "id": 14,
+    "name": "fghfghfgh",
+    "price": 0,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "230d7383-c4b7-4965-87d3-f1a9f96e4060.jpg"
+  },
+  {
+    "id": 15,
+    "name": "12 pr",
+    "price": 100000,
+    "typeId": 58,
+    "brandId": 67,
+    "img": "d93b0b0b-6560-4a54-8f67-f3c46c250407.jpg"
+  },
+  {
+    "id": 16,
+    "name": "yyyyyy",
+    "price": 5000,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "ru_default_large.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Galaxy 5",
+    "price": 300000,
+    "typeId": 58,
+    "brandId": 82,
+    "img": "d97ba60b-8006-4dce-a12e-75fbb8c82150.jpg"
+  },
+  {
+    "id": 19,
+    "name": "B75M-A",
+    "price": 3100,
+    "typeId": 54,
+    "brandId": 68,
+    "img": "1a1a0789-19ca-4dc5-8c65-9e4620f26fec.jpg"
+  },
+  {
+    "id": 20,
+    "name": "FX-4300",
+    "price": 0,
+    "typeId": 57,
+    "brandId": 66,
+    "img": "ec247e45-c9cc-4236-b957-234370ffa029.jpg"
+  },
+  {
+    "id": 21,
+    "name": "hhhhh",
+    "price": 0,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "78e81c50-6a78-43c7-9818-6bff402ae00a.jpg"
+  },
+  {
+    "id": 22,
+    "name": "FX-4500",
+    "price": 0,
+    "typeId": 57,
+    "brandId": 66,
+    "img": "ec247e45-c9cc-4236-b957-234370ffa029.jpg"
+  },
+  {
+    "id": 23,
+    "name": "jjjjjjj",
+    "price": 0,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "ru_default_large.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Geforce GTX650",
+    "price": 4300,
+    "typeId": 51,
+    "brandId": 80,
+    "img": "d60ce1fc-7600-4ad6-9cfc-a146993c87d1.jpg"
+  },
+  {
+    "id": 25,
+    "name": "GeForce GT 1030",
+    "price": 6800,
+    "typeId": 51,
+    "brandId": 81,
+    "img": "13512561-a44b-4e5e-b7c4-df99929f5548.jpg"
+  },
+  {
+    "id": 26,
+    "name": "B50-45",
+    "price": 30000,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "b5541aaf-f157-4158-8979-a8116638d6cb.jpg"
+  },
+  {
+    "id": 27,
+    "name": "qwe",
+    "price": 100000,
+    "typeId": 58,
+    "brandId": 67,
+    "img": "d93b0b0b-6560-4a54-8f67-f3c46c250407.jpg"
+  },
+  {
+    "id": 28,
+    "name": "rty",
+    "price": 100000,
+    "typeId": 58,
+    "brandId": 67,
+    "img": "d93b0b0b-6560-4a54-8f67-f3c46c250407.jpg"
+  },
+  {
+    "id": 29,
+    "name": "qwert",
+    "price": 2,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "96221c74-1c45-44e0-971a-cc5c7dfb9133.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Deep Freeze 6",
+    "price": 30000,
+    "typeId": 60,
+    "brandId": 82,
+    "img": "bb9d8975-3c3d-41be-a321-75b313dbb20d.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Deep Freeze 8",
+    "price": 30000,
+    "typeId": 60,
+    "brandId": 82,
+    "img": "bb9d8975-3c3d-41be-a321-75b313dbb20d.jpg"
+  },
+  {
+    "id": 32,
+    "name": "15IMH06",
+    "price": 24999,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "4eb99759-bdd8-4d3e-822b-142ffce233be.jpg"
+  },
+  {
+    "id": 33,
+    "name": "15ACH6H",
+    "price": 3434,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "ad53ff66-53fb-401d-87b0-3fd0c92aaeac.jpg"
+  },
+  {
+    "id": 34,
+    "name": "15ACH8H",
+    "price": 3434,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "25192751-0978-416a-8d1c-8f1a07ed0059.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Deep Freeze 9",
+    "price": 30000,
+    "typeId": 60,
+    "brandId": 82,
+    "img": "bb9d8975-3c3d-41be-a321-75b313dbb20d.jpg"
+  },
+  {
+    "id": 36,
+    "name": "jjjj",
+    "price": 0,
+    "typeId": 58,
+    "brandId": 68,
+    "img": "ru_default_large.jpg"
+  },
+  {
+    "id": 37,
+    "name": "12 pros",
+    "price": 100000,
+    "typeId": 58,
+    "brandId": 67,
+    "img": "6e79a3c8-2e70-4247-af87-8bc16c560e85.jpg"
+  },
+  {
+    "id": 38,
+    "name": "hhgggg",
+    "price": 0,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "a9cfef36-de74-465e-ba37-1f4c5f67b1d0.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Deep Freeze 2",
+    "price": 30000,
+    "typeId": 60,
+    "brandId": 82,
+    "img": "bb9d8975-3c3d-41be-a321-75b313dbb20d.jpg"
+  },
+  {
+    "id": 40,
+    "name": "52F14S",
+    "price": 60000,
+    "typeId": 59,
+    "brandId": 82,
+    "img": "577a559e-5f5c-4e61-a8b3-ae8d86b77bb3.jpg"
+  },
+  {
+    "id": 41,
+    "name": "15IMH02",
+    "price": 24999,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "4eb99759-bdd8-4d3e-822b-142ffce233be.jpg"
+  },
+  {
+    "id": 42,
+    "name": "VRS 11",
+    "price": 50000,
+    "typeId": 59,
+    "brandId": 78,
+    "img": "888425d2-e37e-4f8a-b49d-abbc41f57065.jpg"
+  },
+  {
+    "id": 43,
+    "name": "15ACH6H2",
+    "price": 3434,
+    "typeId": 55,
+    "brandId": 77,
+    "img": "ad53ff66-53fb-401d-87b0-3fd0c92aaeac.jpg"
+  },
+  {
+    "id": 44,
+    "name": "13 NiPro",
+    "price": 30000,
+    "typeId": 58,
+    "brandId": 67,
+    "img": "0f5defd3-c74c-4b95-aa32-8ee7159ca0f0.jpg"
+  },
+  {
+    "id": 45,
+    "name": "12 pro 14",
+    "price": 100000,
+    "typeId": 58,
+    "brandId": 67,
+    "img": "d93b0b0b-6560-4a54-8f67-f3c46c250407.jpg"
+  }
+]

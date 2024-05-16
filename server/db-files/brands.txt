@@ -1,0 +1,86 @@
+[
+  {
+    "id": 64,
+    "name": "Acer"
+  },
+  {
+    "id": 65,
+    "name": "A-Data"
+  },
+  {
+    "id": 66,
+    "name": "AMD"
+  },
+  {
+    "id": 67,
+    "name": "Apple"
+  },
+  {
+    "id": 68,
+    "name": "Asus"
+  },
+  {
+    "id": 69,
+    "name": "Defender"
+  },
+  {
+    "id": 70,
+    "name": "DNS"
+  },
+  {
+    "id": 71,
+    "name": "FSP"
+  },
+  {
+    "id": 72,
+    "name": "Geforce"
+  },
+  {
+    "id": 73,
+    "name": "Gigabyte"
+  },
+  {
+    "id": 74,
+    "name": "Hewlett Packard"
+  },
+  {
+    "id": 75,
+    "name": "Hitachi"
+  },
+  {
+    "id": 76,
+    "name": "Intel"
+  },
+  {
+    "id": 77,
+    "name": "Lenovo"
+  },
+  {
+    "id": 78,
+    "name": "LG"
+  },
+  {
+    "id": 79,
+    "name": "MSI"
+  },
+  {
+    "id": 80,
+    "name": "Nvidia"
+  },
+  {
+    "id": 81,
+    "name": "Palit"
+  },
+  {
+    "id": 82,
+    "name": "Samsung"
+  },
+  {
+    "id": 83,
+    "name": "Western Digital"
+  },
+  {
+    "id": 84,
+    "name": "Xiaomi"
+  }
+]
