@@ -41,7 +41,7 @@ npm run dev
 ```
 cd client
 ```
-Установка
+Установка зависимостей
 ```
 npm install
 ```

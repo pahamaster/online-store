@@ -40,7 +40,7 @@ Go to the 'client' directory
 ```
 cd client
 ```
-Installing
+Installing dependencies
 ```
 npm install
 ```
